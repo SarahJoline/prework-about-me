@@ -1,0 +1,9 @@
+Header was missing <h1></h1> tags.
+Link to wikipedia article was not copied into <a href"">.
+Image link was missing <>.
+list was missing li tags.
+<p> tags missing from paragraph.
+Changed the ID on the buttons to correspond to the correct color.
+Added "" to Pink in JS as it was meant to be a string.
+Added "" to each Boo fact in Var booFacts
+Added "" to (click, function(...
